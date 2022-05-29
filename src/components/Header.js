@@ -1,18 +1,21 @@
-// Import Assets
-import profile from '../assets/profile.png';
+    // Import Assets
+    import profile from '../assets/profile.jpg';
 
-const Header = () => {
-    return (
-        <section className='header'>
-            <img src={profile} alt="John Doe" />
+    const Header = () => {
+        return (
+            <section className='header'>
+                <img src={profile} alt="Daniel Colantonio" />
 
-            <div className='header__content'>
-                <h1>Hi, I'm John Doe</h1>
-                <p>Blockchain Developer</p>
-                <button className='button'>Get In Touch</button>
-            </div>
-        </section>
-    );
-}
+                <div className='header__content'>
+                    <h1>Daniel Colantonio</h1>
+                    <br></br>
+                    <h2>Partner Integration Analyst</h2>
+                    <br></br>
+                    {/* <h3>*Aspiring Blockchain Developer*</h3> */}
 
-export default Header;
+                </div>
+            </section>
+        );
+    }
+
+    export default Header;

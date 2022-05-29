@@ -5,23 +5,22 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Quinnipiac University</i>, 2014-2018
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                    <li>Bachelor's in Computer Information Systems</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>The NPD Group</i> - <strong>Intern</strong>, 2018-2018 (3 months)
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Worked on Networking and Security team and became familiar with IT infrastructure</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Dealertrack Technologies</i> - <strong>Partner integration Analyst</strong>, 2018-Present
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Onboards lenders via backend XML configurations and deployment</li>
+                        <li>Conducts end-to-end connetivity testing in QA and Production environments via HTTPS requests</li>
                     </ul>
                 </li>
             </ul>
