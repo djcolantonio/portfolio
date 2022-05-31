@@ -125,12 +125,14 @@ code {
 
   border: 1px solid #0088BB;
   border-radius: 8px;
+  height: 550px;
 }
 
 .projects__card h3 {
   font-size: 32px;
   font-weight: 300;
   margin-bottom: 10px;
+  
 }
 
 .projects__card p {
@@ -232,4 +234,12 @@ code {
   background: #cccccc;
   color: #FFFFFF;
 }
-
+.info{
+  height: 85px;
+}
+.proj{
+  height: 230px;
+}
+.proj1{
+  min-height: 211px;
+}
